@@ -49,19 +49,19 @@ If you find this container useful, please consider donating to any of the follow
 
 | Type         | Wallet address | QR code |
 | -----------: | :------------- | :------ |
-| BTC Bitcoin  | 126cDdE9kAGBPsqmcHmrL9RjydE4UQ5js7 | ![BTC](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/btc.png = 117x) |
-| ETH Ethereum | 0xCBb46A29bc72b656d11C3c1Aa709899476d03cad | ![ETH](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/eth.png = 117x) |
-| DAO          | 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 | ![DAO](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dao.png = 117x) |
-| DASH         | XnacW7JvjjpkMDwhpqQTSPwUzA348EgV6g | ![DASH](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dash.png = 117x) |
-| ETC Ethereum Classic | 0x46F78206Bd2D2B830c29E9Ac59B7384f323c2ec2 | ![ETC](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/etc.png = 117x) |
-| REP                  | 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 | ![REP](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rep.png = 117x) |
-| LTC Litecoin         | Lbdu8uQG7FCt8W4dNqvzZBSuqXoPTVUpef | ![LTC](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/ltc.png = 117x) |
-| ZCASH                | t1dQoztTLtp1jURs215EobA2CxczrrNUDga | ![ZCASH](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/zcash.png = 117x) |
-| RSK Testnet          | 0xb6fbe48A74471E65aAe1536e4f56677f12022790 | ![RSK](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rsk.png = 117x) |
+| BTC Bitcoin  | 126cDdE9kAGBPsqmcHmrL9RjydE4UQ5js7 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/btc.png" width="85">) |
+| ETH Ethereum | 0xCBb46A29bc72b656d11C3c1Aa709899476d03cad | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/eth.png" width="85">) |
+| DAO          | 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dao.png" width="85">) |
+| DASH         | XnacW7JvjjpkMDwhpqQTSPwUzA348EgV6g | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dash.png" width="85">) |
+| ETC Ethereum Classic | 0x46F78206Bd2D2B830c29E9Ac59B7384f323c2ec2 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/etc.png" width="85">) |
+| REP                  | 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rep.png" width="85">) |
+| LTC Litecoin         | Lbdu8uQG7FCt8W4dNqvzZBSuqXoPTVUpef | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/ltc.png" width="85">) |
+| ZCASH                | t1dQoztTLtp1jURs215EobA2CxczrrNUDga | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/zcash.png" width="85">) |
+| RSK Testnet          | 0xb6fbe48A74471E65aAe1536e4f56677f12022790 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rsk.png" width="85">) |
 
 ## Credits
 
-- jaxx.io for their wallet software
+- https://jaxx.io/ for their wallet software
 - https://github.com/gfjardim for the container I pulled apart to produce this
 - https://github.com/phusion for the underlying minimal ubuntu container
 
