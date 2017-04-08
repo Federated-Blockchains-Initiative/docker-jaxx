@@ -45,15 +45,15 @@ Once up and running, connect via a web browser or VNC client and you should see 
 
 If you find this container useful, please consider donating to any of the following:
 
-- BTC Bitcoin - 126cDdE9kAGBPsqmcHmrL9RjydE4UQ5js7 ![BTC](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/btc.png)
-- ETH Ethereum - 0xCBb46A29bc72b656d11C3c1Aa709899476d03cad ![ETH](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/eth.png)
-- DAO - 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 ![DAO](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/dao.png)
-- DASH - XnacW7JvjjpkMDwhpqQTSPwUzA348EgV6g ![DASH](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/dash.png)
-- ETC Ethereum Classic - 0x46F78206Bd2D2B830c29E9Ac59B7384f323c2ec2 ![ETC](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/etc.png)
-- REP - 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 ![REP](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/rep.png)
-- LTC Litecoin - Lbdu8uQG7FCt8W4dNqvzZBSuqXoPTVUpef ![LTC](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/ltc.png)
-- ZCASH - t1dQoztTLtp1jURs215EobA2CxczrrNUDga ![ZCASH](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/zcash.png)
-- RSK Testnet - 0xb6fbe48A74471E65aAe1536e4f56677f12022790 ![RSK](https://raw.githubusercontent.com/biwhite/docker-jaxx/img/rsk.png)
+- BTC Bitcoin - 126cDdE9kAGBPsqmcHmrL9RjydE4UQ5js7 ![BTC](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/btc.png)
+- ETH Ethereum - 0xCBb46A29bc72b656d11C3c1Aa709899476d03cad ![ETH](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/eth.png)
+- DAO - 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 ![DAO](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dao.png)
+- DASH - XnacW7JvjjpkMDwhpqQTSPwUzA348EgV6g ![DASH](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dash.png)
+- ETC Ethereum Classic - 0x46F78206Bd2D2B830c29E9Ac59B7384f323c2ec2 ![ETC](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/etc.png)
+- REP - 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 ![REP](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rep.png)
+- LTC Litecoin - Lbdu8uQG7FCt8W4dNqvzZBSuqXoPTVUpef ![LTC](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/ltc.png)
+- ZCASH - t1dQoztTLtp1jURs215EobA2CxczrrNUDga ![ZCASH](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/zcash.png)
+- RSK Testnet - 0xb6fbe48A74471E65aAe1536e4f56677f12022790 ![RSK](https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rsk.png)
 
 ## Credits
 
