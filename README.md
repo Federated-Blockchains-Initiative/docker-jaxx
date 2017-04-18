@@ -14,7 +14,7 @@ This pulls down version 1.1.7 of Jaxx on an ubuntu base system.
 To run the container, use something like the following:
 
 ```
-docker run --rm \
+docker run -d \
        -p 8280:8280 \
        -p 8239:8239 \
        -v /opt/jaxx:/config \
@@ -31,7 +31,7 @@ docker run --rm \
 - VNC_PORT = Where to run the VNC server defaults to 8239
 
 ## Volumes
-- /config - symlinked from /root/.config/Jaxx for peristant wallet configuration
+- /config - symlinked from /root/.config/Jaxx for persistent wallet configuration
 
 ## Ports
 - 8280 web vnc frontend
@@ -51,7 +51,6 @@ If you find this container useful, please consider donating to any of the follow
 | -----------: | :------------- | :------ |
 | BTC Bitcoin  | 126cDdE9kAGBPsqmcHmrL9RjydE4UQ5js7 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/btc.png" width="85">) |
 | ETH Ethereum | 0xCBb46A29bc72b656d11C3c1Aa709899476d03cad | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/eth.png" width="85">) |
-| DAO          | 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dao.png" width="85">) |
 | DASH         | XnacW7JvjjpkMDwhpqQTSPwUzA348EgV6g | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/dash.png" width="85">) |
 | ETC Ethereum Classic | 0x46F78206Bd2D2B830c29E9Ac59B7384f323c2ec2 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/etc.png" width="85">) |
 | REP                  | 0x967F42F0D9a4A7310A0F2C105045E25E039720a9 | <img src="https://raw.githubusercontent.com/biwhite/docker-jaxx/master/img/rep.png" width="85">) |
