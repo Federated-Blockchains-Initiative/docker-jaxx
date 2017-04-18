@@ -1,13 +1,5 @@
 # Jaxx - Your blockchain interface
 
-# Build
-
-To build this yourself.  Clone the repository and then within the folder run:
-```
-docker build -t biwhite/jaxx .
-```
-
-This pulls down version 1.1.7 of Jaxx on an ubuntu base system.
 
 # Run
 
@@ -23,6 +15,15 @@ docker run -d \
        --name jaxx \
        biwhite/jaxx
 ```
+
+# Build
+
+If you want to build this yourself.  Clone the repository and then within the folder run:
+```
+docker build -t biwhite/jaxx .
+```
+
+This pulls down version 1.2.4 of Jaxx on an ubuntu base system.
 
 ## Environment Variables
 - TZ = Set a timezone
